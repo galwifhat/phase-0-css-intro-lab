@@ -18,13 +18,13 @@ work on implementing CSS declarations in our HTML.
 
 ## Writing HTML vs. Writing CSS
 
-|             | HTML | CSS |
-| ----------- | ---- | --- |
-| Deals with: | Content layer                                             | Presentation layer                                               |
-| Concerns:   | Structure, hierarchy & meaning                            | Aesthetic & display                                              |
-| Questions:  | - Should the order of items within a list matter?         | - Should the layout of the text be in a single or double column? |
-|             | - Should we wrap a list of links inside a navigation tag? | - Should we use a different font color for the header?           |
-|             | - Is this the most important header in the HTML document? | - How should the content appear on a desktop vs. a mobile device?  |
+|             | HTML                                                      | CSS                                                               |
+| ----------- | --------------------------------------------------------- | ----------------------------------------------------------------- |
+| Deals with: | Content layer                                             | Presentation layer                                                |
+| Concerns:   | Structure, hierarchy & meaning                            | Aesthetic & display                                               |
+| Questions:  | - Should the order of items within a list matter?         | - Should the layout of the text be in a single or double column?  |
+|             | - Should we wrap a list of links inside a navigation tag? | - Should we use a different font color for the header?            |
+|             | - Is this the most important header in the HTML document? | - How should the content appear on a desktop vs. a mobile device? |
 
 ## Getting Started
 
@@ -119,7 +119,5 @@ expect on websites.
 
 - [W3 Introduction to CSS](https://www.w3schools.com/Css/css_intro.asp)
 
-[un-styled]:
-  https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
-[styled]:
-  https://curriculum-content.s3.amazonaws.com/web-development/styled-intro-to-css.png
+[un-styled]: https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
+[styled]: https://curriculum-content.s3.amazonaws.com/web-development/styled-intro-to-css.png
